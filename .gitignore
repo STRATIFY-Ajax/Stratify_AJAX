@@ -1,0 +1,20 @@
+#Raw data
+data/raw/
+*.csv
+*.xlsx
+
+#Processed data
+data/processed/*.parquet
+
+#Python
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+
+#Jupyter checkpoints
+.ipynb_checkpoints
+
+#OS artefacts
+.DS_Store
+Thumbs.db
