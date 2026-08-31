@@ -13,3 +13,12 @@
 - Retained in dataset for EDA and mispricing analysis
 - Will be EXCLUDED from elasticity model fitting in Phase 3
 - Conclusion: flagged and retained for the mispricing analysis
+
+## competitorPrices.csv
+
+# cleaning test results
+- No column with a NULL entry
+- No duplicate entries
+
+# modifications:
+- Dates standardised.
